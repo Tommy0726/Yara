@@ -47,9 +47,9 @@ https://resources.infosecinstitute.com/topic/top-7-malware-sample-databases-and-
 
 ### 透過VirusShare獲得惡意軟件
 
-![Screenshot (87)]https://github.com/YuCheng1122/Yara/blob/master/src/Screenshot%20(87).png
+![Screenshot (87)](https://github.com/YuCheng1122/Yara/blob/master/src/Screenshot%20(87).png)
 
-![Screenshot (88)]https://github.com/YuCheng1122/Yara/blob/master/src/Screenshot%20(88).png
+![Screenshot (88)](https://github.com/YuCheng1122/Yara/blob/master/src/Screenshot%20(88).png)
 
 ### 學習來源
 
