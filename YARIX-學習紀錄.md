@@ -32,7 +32,7 @@ make -C src/
 pip install -r requirements.txt
 ```
 
-(https://github.com/YuCheng1122/Yara/blob/master/src/%E8%B3%87%E5%AE%89(1).png
+![資安((https://github.com/YuCheng1122/Yara/blob/master/src/%E8%B3%87%E5%AE%89(1).png
 )
 
 建立 binary的索引
