@@ -32,7 +32,8 @@ make -C src/
 pip install -r requirements.txt
 ```
 
-![資安(1)](C:\Users\Tommy\Pictures\Screenshots\資安(1).png)
+[![資安(1)](C:\Users\Tommy\Pictures\Screenshots\資安(1).png)](https://github.com/YuCheng1122/Yara/blob/master/src/%E8%B3%87%E5%AE%89(1).png
+)
 
 建立 binary的索引
 
@@ -47,9 +48,9 @@ https://resources.infosecinstitute.com/topic/top-7-malware-sample-databases-and-
 
 ### 透過VirusShare獲得惡意軟件
 
-![Screenshot (87)](C:\Users\Tommy\Pictures\Screenshots\Screenshot (87).png)
+https://github.com/YuCheng1122/Yara/blob/master/src/Screenshot%20(87).png
 
-![Screenshot (88)](C:\Users\Tommy\Pictures\Screenshots\Screenshot (88).png)
+https://github.com/YuCheng1122/Yara/blob/master/src/Screenshot%20(88).png
 
 ### 學習來源
 
